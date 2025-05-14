@@ -1,2 +1,2 @@
 [web]
-34.224.29.101 ansible_user=ec2-user ansible_ssh_private_key_file=~/Downloads/ohio.pem
+34.224.29.101 ansible_user=ec2-user ansible_ssh_private_key_file=~/Downloads/praveenlatest.pem
